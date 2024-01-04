@@ -1,0 +1,30 @@
+﻿  OxygenBuddy.cpp
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(208,6): warning C4101: auStack612: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(386,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(440,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(494,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(525,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(526,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(561,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(563,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(595,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(597,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(628,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(630,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(661,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(661,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(661,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(661,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(667,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(667,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(667,25): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\OxygenBuddy\OxygenBuddy.cpp(675,18): warning C4566: символ, представленный универсальным именем символа "\u00EB", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OxygenBuddy.vcxproj -> C:\Users\mrsuperbuddy\source\repos\OxygenBuddy\Release\OxygenBuddy.exe
